@@ -1,0 +1,15 @@
+D:\SKLAD\Books\MasterDegree\Szience\OURDICOMVIEWER\dicomViewer\imagePreprocessing\bin\Debug\imagePreprocessing.exe.config
+D:\SKLAD\Books\MasterDegree\Szience\OURDICOMVIEWER\dicomViewer\imagePreprocessing\bin\Debug\imagePreprocessing.exe
+D:\SKLAD\Books\MasterDegree\Szience\OURDICOMVIEWER\dicomViewer\imagePreprocessing\bin\Debug\imagePreprocessing.pdb
+D:\SKLAD\Books\MasterDegree\Szience\OURDICOMVIEWER\dicomViewer\imagePreprocessing\obj\Debug\imagePreprocessing.csprojResolveAssemblyReference.cache
+D:\SKLAD\Books\MasterDegree\Szience\OURDICOMVIEWER\dicomViewer\imagePreprocessing\obj\Debug\imagePreprocessing.Form1.resources
+D:\SKLAD\Books\MasterDegree\Szience\OURDICOMVIEWER\dicomViewer\imagePreprocessing\obj\Debug\imagePreprocessing.imageArray.resources
+D:\SKLAD\Books\MasterDegree\Szience\OURDICOMVIEWER\dicomViewer\imagePreprocessing\obj\Debug\imagePreprocessing.Properties.Resources.resources
+D:\SKLAD\Books\MasterDegree\Szience\OURDICOMVIEWER\dicomViewer\imagePreprocessing\obj\Debug\imagePreprocessing.csproj.GenerateResource.Cache
+D:\SKLAD\Books\MasterDegree\Szience\OURDICOMVIEWER\dicomViewer\imagePreprocessing\obj\Debug\imagePreprocessing.csproj.CoreCompileInputs.cache
+D:\SKLAD\Books\MasterDegree\Szience\OURDICOMVIEWER\dicomViewer\imagePreprocessing\obj\Debug\imagePreprocessing.exe
+D:\SKLAD\Books\MasterDegree\Szience\OURDICOMVIEWER\dicomViewer\imagePreprocessing\obj\Debug\imagePreprocessing.pdb
+D:\SKLAD\Books\MasterDegree\Szience\OURDICOMVIEWER\dicomViewer\dicomViewer\bin\x86\Debug\imagePreprocessing.exe.config
+D:\SKLAD\Books\MasterDegree\Szience\OURDICOMVIEWER\dicomViewer\dicomViewer\bin\x86\Debug\imagePreprocessing.exe
+D:\SKLAD\Books\MasterDegree\Szience\OURDICOMVIEWER\dicomViewer\dicomViewer\bin\x86\Debug\imagePreprocessing.pdb
+D:\SKLAD\Books\MasterDegree\Szience\OURDICOMVIEWER\dicomViewer\imagePreprocessing\obj\Debug\imagePreprocessing.csproj.App.config

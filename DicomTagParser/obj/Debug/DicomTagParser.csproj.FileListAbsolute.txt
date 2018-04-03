@@ -1,0 +1,6 @@
+D:\SKLAD\Books\MasterDegree\Szience\OURDICOMVIEWER\dicomViewer\DicomTagParser\bin\Debug\DicomTagParser.dll
+D:\SKLAD\Books\MasterDegree\Szience\OURDICOMVIEWER\dicomViewer\DicomTagParser\bin\Debug\DicomTagParser.pdb
+D:\SKLAD\Books\MasterDegree\Szience\OURDICOMVIEWER\dicomViewer\DicomTagParser\obj\Debug\DicomTagParser.csproj.CoreCompileInputs.cache
+D:\SKLAD\Books\MasterDegree\Szience\OURDICOMVIEWER\dicomViewer\DicomTagParser\obj\Debug\DicomTagParser.dll
+D:\SKLAD\Books\MasterDegree\Szience\OURDICOMVIEWER\dicomViewer\DicomTagParser\obj\Debug\DicomTagParser.pdb
+D:\SKLAD\Books\MasterDegree\Szience\OURDICOMVIEWER\dicomViewer\DicomTagParser\obj\Debug\DicomTagParser.csprojResolveAssemblyReference.cache
